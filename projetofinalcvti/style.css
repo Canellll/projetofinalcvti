@@ -331,3 +331,30 @@ main {
     height: 100vh;
     border-radius: 0;
 }
+
+
+
+
+
+
+.row {
+
+  background-color: #ff9900;
+  right: 0px;
+  left: 0px;
+}
+
+.footer-logo {
+
+  background-color: var(--light-theme);
+  margin-top: 5px;
+}
+
+.form-ouvidoria .btn {
+
+  margin-top: 5px;
+}
+.redes-sociais {
+display: flex;
+
+}
